@@ -1,0 +1,10 @@
+{
+"name": "Photo-Sharing",
+"description": "Our Photo Sharing Application",
+"version": "0.0.2",
+"private": true,
+"dependencies": {
+"async": "0.1.x",
+"express": "3.x"
+}
+}
